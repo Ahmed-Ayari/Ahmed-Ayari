@@ -17,10 +17,10 @@
 
 ## 📌 Featured Projects
 
--🔹 **Leave Management System** – Symfony & React app with role-based access (Admin, Manager, User) for handling leave requests.
--🔹 **Material Management System** – ASP.NET Core + Angular 18 with Identity, role & action-based access control.
--🔹 **Recipe App** – React & Tailwind app for browsing and searching food recipes.
--🔹 **Unity 2D Game** – Custom-built with preset enemy characters and gameplay mechanics.
+- **Leave Management System** – Symfony & React app with role-based access (Admin, Manager, User) for handling leave requests.
+- **Material Management System** – ASP.NET Core + Angular 18 with Identity, role & action-based access control.
+- **Recipe App** – React & Tailwind app for browsing and searching food recipes.
+- **Unity 2D Game** – Custom-built with preset enemy characters and gameplay mechanics.
 
 ---
 
