@@ -57,7 +57,7 @@
 * 📧 Email: **[aayariahmed64@gmail.com](mailto:aayariahmed64@gmail.com)**
 
 ---
-
-✨ *“Code, Create, Innovate.”*
-
+<p align="center">
+  ✨ “Code, Create, Innovate.”
+</p>
 ---
