@@ -1,8 +1,8 @@
 # Hi, I'm Ahmed 👋
 
-💻 **Full-Stack Developer | Mobile & Desktop App Developer | Game Enthusiast**
-🎓 Graduated from **ISAMM (Institut Supérieur des Arts Multimédia de la Manouba)**
-🚀 Passionate about building scalable web apps, mobile apps, and interactive games.
+- **💻 **Full-Stack Developer | Mobile & Desktop App Developer | Game Enthusiast**
+- **🎓 Graduated from **ISAMM (Institut Supérieur des Arts Multimédia de la Manouba)**
+- **🚀 Passionate about building scalable web apps, mobile apps, and interactive games.
 
 ---
 
