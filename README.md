@@ -27,7 +27,7 @@
 ## 📊 GitHub Stats
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ayari\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ayari\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ayari\&layout=compact\&theme=tokyonight)
 
 ---
 
