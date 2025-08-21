@@ -66,8 +66,9 @@
 ---
 
 <p align="center">
-  ✨ “Code, Create, Innovate.”
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&lines=%E2%9C%A8+Code%2C+Create%2C+Innovate.+%F0%9F%8C%A8" alt="Footer Typing Animation" />
 </p>
+
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/>
