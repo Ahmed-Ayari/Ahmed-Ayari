@@ -27,13 +27,13 @@
 ## 📊 GitHub Stats
 
 ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ayari\&show_icons=true\&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ayari\&layout=compact\&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ayari\&theme=tokyonight)
 
 ---
 
 ## 🌍 Connect with Me
 
-* 💼 [LinkedIn](https://www.linkedin.com/in/ahmed-ayari-767102266/)
+* 💼 LinkedIn: [Ahmed Ayari](https://www.linkedin.com/in/ahmed-ayari-767102266/)
 * 📧 Email: **[aayariahmed64@gmail.com](mailto:aayariahmed64@gmail.com)**
 
 ---
