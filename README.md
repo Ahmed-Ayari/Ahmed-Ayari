@@ -50,7 +50,7 @@
 ## 📈 Contribution Graph  
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedayari&theme=tokyo-night&hide_border=true" alt="Ahmed's Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Ayari&theme=tokyo-night&hide_border=true" alt="Ahmed's Contribution Graph" />
 </p>
 
 ---
