@@ -5,7 +5,6 @@
 - 🚀 Passionate about building scalable web apps, mobile apps, and interactive games.
 - 🌱 Actively learning and always experimenting with new tools, frameworks, and technologies.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -14,7 +13,6 @@
 * **Mobile & Desktop:** Kotlin, Java, C++, Unity (2D/3D)
 * **Databases:** MySQL, PostgreSQL, Microsoft SQL Server
 
----
 
 ## 📌 Featured Projects
 
@@ -23,7 +21,6 @@
 - **Recipe App** – React & Tailwind app for browsing and searching food recipes.
 - **Unity 2D Game** – Custom-built with preset enemy characters and gameplay mechanics.
 
----
 
 ## ❤️ Favorite Languages & Frameworks  
 
@@ -35,7 +32,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="60" height="60"/>
 </p>
 
----
 
 ## 📊 GitHub Stats
 
@@ -53,15 +49,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Ayari&theme=tokyo-night&hide_border=true" alt="Ahmed's Contribution Graph" />
 </p>
 
----
 
 ## 🌍 Connect with Me
 
 * 💼 LinkedIn: [Ahmed Ayari](https://www.linkedin.com/in/ahmed-ayari-767102266/)
 * 📧 Email: **[aayariahmed64@gmail.com](mailto:aayariahmed64@gmail.com)**
 
----
 
 ✨ *“Code, Create, Innovate.”*
-
----
