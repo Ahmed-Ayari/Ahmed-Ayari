@@ -49,11 +49,15 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahmed-Ayari&theme=tokyo-night&hide_border=true" alt="Ahmed's Contribution Graph" />
 </p>
 
+---
 
 ## 🌍 Connect with Me
 
 * 💼 LinkedIn: [Ahmed Ayari](https://www.linkedin.com/in/ahmed-ayari-767102266/)
 * 📧 Email: **[aayariahmed64@gmail.com](mailto:aayariahmed64@gmail.com)**
 
+---
 
 ✨ *“Code, Create, Innovate.”*
+
+---
