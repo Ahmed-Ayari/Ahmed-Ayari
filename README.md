@@ -3,6 +3,7 @@
 - 💻 **Full-Stack Developer | Mobile & Desktop App Developer | Game Enthusiast**
 - 🎓 Graduated from **ISAMM (Institut Supérieur des Arts Multimédia de la Manouba)**
 - 🚀 Passionate about building scalable web apps, mobile apps, and interactive games.
+- 🌱 Actively learning and always experimenting with new tools, frameworks, and technologies.
 
 ---
 
@@ -44,6 +45,12 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ayari&layout=compact&theme=tokyonight"/>
+</p>
+
+## 📈 Contribution Graph  
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ahmedayari&theme=tokyo-night&hide_border=true" alt="Ahmed's Contribution Graph" />
 </p>
 
 ---
