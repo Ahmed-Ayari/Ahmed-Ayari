@@ -66,7 +66,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&lines=%E2%9C%A8+Code%2C+Create%2C+Innovate.+%F0%9F%8C%A8" alt="Footer Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=6000&color=36BCF7&center=true&vCenter=true&lines=%E2%9C%A8+Code%2C+Create%2C+Innovate.+%F0%9F%8C%A8" alt="Footer Typing Animation" />
 </p>
 
 
