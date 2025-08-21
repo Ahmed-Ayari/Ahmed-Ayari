@@ -9,15 +9,15 @@
 ## 🛠️ Tech Stack
 
 * **Frontend:** React, Angular, Tailwind CSS, Bootstrap, jQuery
-* **Backend:** Symfony 7 (PHP), ASP.NET Core, Node.js
-* **Mobile & Desktop:** Flutter, .NET (WPF/WinForms), Unity (2D/3D)
+* **Backend:** Symfony 7 (PHP), ASP.NET Core
+* **Mobile & Desktop:** Kotlin, Java, C++, Unity (2D/3D)
 * **Databases:** MySQL, PostgreSQL, Microsoft SQL Server
 
 ---
 
 ## 📌 Featured Projects
 
-- **Leave Management System** – Symfony & React app with role-based access (Admin, Manager, User) for handling leave requests.
+- **Leave Management System** – Symfony app with role-based access (Admin, Manager, User) for handling leave requests.
 - **Material Management System** – ASP.NET Core + Angular 18 with Identity, role & action-based access control.
 - **Recipe App** – React & Tailwind app for browsing and searching food recipes.
 - **Unity 2D Game** – Custom-built with preset enemy characters and gameplay mechanics.
