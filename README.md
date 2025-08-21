@@ -27,11 +27,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ahmed-Ayari\&show_icons=true\&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Ayari\&show_icons=true\&theme=tokyonight"/>
 </p>
 
 <p align="center">
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ayari\&layout=compact\&theme=tokyonight)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ayari\&layout=compact\&theme=tokyonight"/>
 </p>
 
 ---
