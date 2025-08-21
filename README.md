@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5000&color=36BCF7&center=true&vCenter=true&lines=Hi%2C+I%27m+Ahmed+%F0%9F%91%8B;Full-Stack+Developer;Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=30&duration=5000&color=36BCF7&center=true&vCenter=true&lines=Hi%2C+I%27m+Ahmed+%F0%9F%91%8B;Full-Stack+Developer" alt="Typing SVG" />
 </p>
 
 - 💻 **Full-Stack Developer | Mobile & Desktop App Developer | Game Enthusiast**
