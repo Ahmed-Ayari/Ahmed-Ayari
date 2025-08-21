@@ -17,21 +17,21 @@
 
 ## 📌 Featured Projects
 
-🔹 **Leave Management System** – Symfony & React app with role-based access (Admin, Manager, User) for handling leave requests.
-🔹 **Material Management System** – ASP.NET Core + Angular 18 with Identity, role & action-based access control.
-🔹 **Recipe App** – React & Tailwind app for browsing and searching food recipes.
-🔹 **Unity 2D Game** – Custom-built with preset enemy characters and gameplay mechanics.
+-🔹 **Leave Management System** – Symfony & React app with role-based access (Admin, Manager, User) for handling leave requests.
+-🔹 **Material Management System** – ASP.NET Core + Angular 18 with Identity, role & action-based access control.
+-🔹 **Recipe App** – React & Tailwind app for browsing and searching food recipes.
+-🔹 **Unity 2D Game** – Custom-built with preset enemy characters and gameplay mechanics.
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ayari&layout=compact&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Ayari&show_icons=true&theme=tokyonight"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ahmed-Ayari&show_icons=true&theme=tokyonight"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmed-Ayari&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
