@@ -1,5 +1,5 @@
 
-<p>
+<p align="center">
   <img src="./ascii-header.svg" alt="Ahmed Ayari" />
 </p>
 
