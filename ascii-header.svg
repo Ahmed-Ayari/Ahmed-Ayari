@@ -1,11 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 110" width="620">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 620 110" width="330">
   <rect width="620" height="110" fill="#0d1117"/>
-  <text font-family="monospace" font-size="13" fill="#36BCF7" xml:space="preserve">
-    <tspan x="10" dy="1.2em"> █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗</tspan>
-    <tspan x="10" dy="1.2em">██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗</tspan>
-    <tspan x="10" dy="1.2em">███████║███████║██╔████╔██║█████╗  ██║  ██║</tspan>
-    <tspan x="10" dy="1.2em">██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║</tspan>
-    <tspan x="10" dy="1.2em">██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝  AYARI</tspan>
-    <tspan x="10" dy="1.2em">╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝</tspan>
+  <text font-family="monospace" font-size="13" fill="#36BCF7"
+        text-anchor="middle" xml:space="preserve" y="15">
+    <tspan x="305" dy="1.2em"> █████╗ ██╗  ██╗███╗   ███╗███████╗██████╗</tspan>
+    <tspan x="310" dy="1.2em">██╔══██╗██║  ██║████╗ ████║██╔════╝██╔══██╗</tspan>
+    <tspan x="310" dy="1.2em">███████║███████║██╔████╔██║█████╗  ██║  ██║</tspan>
+    <tspan x="310" dy="1.2em">██╔══██║██╔══██║██║╚██╔╝██║██╔══╝  ██║  ██║</tspan>
+    <tspan x="335" dy="1.2em">██║  ██║██║  ██║██║ ╚═╝ ██║███████╗██████╔╝  AYARI</tspan>
+    <tspan x="300" dy="1.2em">╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝╚══════╝╚═════╝</tspan>
   </text>
 </svg>
